@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/itemDuzenle"
+        android:title="@string/menuDuzenle">
+    </item>
+    <item
+        android:id="@+id/itemFavori"
+        android:title="@string/menuFavori">
+    </item>
+    <item
+        android:id="@+id/itemSil"
+        android:title="@string/menuSil">
+    </item>
+    <item
+        android:id="@+id/itemGoruntule"
+        android:title="@string/menuGoruntule">
+        <it>
+        </it>
+    </item>
+
+</menu>

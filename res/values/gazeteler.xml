@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Gazeteler">
+        <item>Hürriyet</item>
+        <item>Milliyet</item>
+        <item>Vatan</item>
+        <item>Sözcü</item>
+        <item>Radikal</item>
+        <item>Cumhuriyet</item>
+    </string-array>
+
+</resources>
